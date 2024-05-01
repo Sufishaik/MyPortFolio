@@ -78,7 +78,7 @@ const Skills = () => {
     ];
     return (
         <div
-            data-name="skills"
+            name="skills"
             className="bg-gradient-to-b px-8  from-black to-gray-800 w-full h-full "
         >
             <div className=" max-w-screen-lg pt-16 md:pt-32 mx-auto  flex flex-col justify-center h-full w-full  text-white ">

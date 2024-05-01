@@ -22,7 +22,7 @@ export default function Projects() {
     ]
     return (
         <div
-            data-name="projects"
+            name="projects"
             id="projects"
             className=" w-full h-full pt-16 md:pt-32 px-4  bg-gradient-to-b from-gray-800 to-black text-white"
         >

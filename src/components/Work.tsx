@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 export const Work = () => {
     return (
         <div
-            data-name="Experience"
+            name="Experience"
             className=" w-full h-full px-8 pt-16 md:pt-32  bg-gradient-to-b from-black to-gray-800 text-white "
         >
             <div className="max-w-screen-lg  mx-auto flex flex-col justify-center w-full h-full ">

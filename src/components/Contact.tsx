@@ -100,7 +100,7 @@ const Contact = () => {
 
     return (
         <div
-            data-name="contact"
+            name="contact"
             className="w-full px-8 h-full py-16 md:py-32 bg-gradient-to-b from-gray-800 to-black  text-white"
         >
             <ToastContainer />

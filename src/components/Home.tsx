@@ -6,7 +6,7 @@ import Img1 from "../images/Snapchat-2051765064.jpg"
 const Home = () => {
     return (
         <div
-            data-name="home"
+            name="home"
             className="h-full w-full bg-gradient-to-b from-black to-gray-800  "
         >
             <div className="max-w-screen-lg mx-auto  flex flex-col items-center justify-center h-full px-8 md:px-4 md:flex-row ">
