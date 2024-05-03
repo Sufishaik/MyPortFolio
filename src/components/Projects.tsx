@@ -1,19 +1,17 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Img1 from "../images/pro1.png"
-import Img2 from "../images/note.png"
 
 export default function Projects() {
     const project = [{
         id: 1,
-        img: Img1,
+        img: 'src/images/pro1.png',
         lnk: "https://homey-store.netlify.app/",
         title: "My E-commerce Site",
         desc: "Html, Css, Javascript, react, Type script, Tailwind css, Framer Motion etc, Daisy UI"
     },
     {
         id: 2,
-        img: Img2,
+        img: 'src/images/note.png',
         lnk: "https://makenoteapp.netlify.app/",
         title: "React Note Making App",
         desc: "Html, Css, Javascript, Tailwind css, react, Daisy UI",

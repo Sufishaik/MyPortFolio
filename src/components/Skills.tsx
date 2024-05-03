@@ -1,75 +1,58 @@
 import React from "react";
-// import html from "../images/html.png";
-// import js from "../images/js.png";
-// import css from "../images/css.png";
-// import react from "../images/react.png";
-// import jq from "../images/jq.png";
-// import bs from "../images/bs.png";
-// import gh from "../images/gh.png";
-// import ps from "../images/ps.png";
-// import tc from "../images/tc.png";
-// import nj from "../images/nj.png";
-// import ts from "../images/ts.png";
-// import sf from "../images/sf.png";
-// import fm from "../images/Framer.png";
-// import wix from "../images/wix.png";
+
+
 import { motion } from "framer-motion";
 const Skills = () => {
     const techs = [
         {
             id: 1,
-            src: 'html',
+            src: 'src/assets/html (1).png',
             title: "HTML",
             style: "shadow-orange-500 ",
         },
         {
             id: 2,
-            src: 'css',
+            src: 'src/assets/css (1).png',
             title: "CSS",
             style: "shadow-blue-500 ",
         },
         {
             id: 3,
-            src: 'js',
+            src: 'src/assets/js (1).png',
             title: "JavaScript",
             style: "shadow-yellow-500 ",
         },
         {
             id: 4,
-            src: 'react',
+            src: 'src/assets/react (1).png',
             title: "React",
             style: "shadow-blue-600 ",
         },
         {
             id: 5,
-            src: 'tc',
+            src: 'src/assets/tc.png',
             title: "Tailwind",
             style: "shadow-sky-400  ",
         },
-        {
-            id: 6,
-            src: 'bs',
-            title: "BootStrap",
-            style: "shadow-purple-500 ",
-        },
+
 
         {
             id: 9,
-            src: 'gh',
+            src: 'src/assets/gh (1).png',
             title: "GitHub",
             style: "shadow-gray-400 ",
         },
 
         {
             id: 11,
-            src: 'ts',
+            src: 'src/assets/ts (1).png',
             title: "Type Script",
             style: "shadow-blue-600 ",
         },
 
         {
             id: 13,
-            src: 'fm',
+            src: 'src/assets/Framer (1).png',
             title: "Framer Motion",
             style: "shadow-green-400 font-bold  text-black bg-slate-100 ",
         },
