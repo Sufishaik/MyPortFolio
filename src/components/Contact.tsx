@@ -7,26 +7,10 @@ const Contact = () => {
     const [email, setEmail] = useState("");
     const [message, setMessage] = useState("");
 
-    const handleSubmit = async (e) => {
+    const handleSubmit = async (e: any) => {
         e.preventDefault();
 
-        const errors = validateForm();
 
-        if (Object.keys(errors).length > 0) {
-            Object.values(errors).forEach((errorMessage: any) => {
-                toast.error(errorMessage, {
-                    position: "top-center",
-                    autoClose: 5000,
-                    hideProgressBar: false,
-                    closeOnClick: true,
-                    pauseOnHover: true,
-                    draggable: true,
-                    progress: undefined,
-                    theme: "dark",
-                });
-            });
-            return;
-        }
 
         try {
             const formData = {
@@ -36,7 +20,7 @@ const Contact = () => {
             };
 
             const response = await fetch(
-                "https://getform.io/f/707d270a-1cdc-42ac-8fbb-9abb56c44e7f",
+                "https://getform.io/f/lbkmryrb",
                 {
                     method: "POST",
                     headers: {
@@ -93,7 +77,7 @@ const Contact = () => {
         return errors;
     };
 
-    const isValidEmail = (email) => {
+    const isValidEmail = (email: string) => {
         const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
         return emailPattern.test(email);
     };
@@ -137,7 +121,7 @@ const Contact = () => {
                         />
 
                         <input
-                            type="text"
+                            type="email"
                             name="email"
                             value={email}
                             onChange={(e) => setEmail(e.target.value)}
