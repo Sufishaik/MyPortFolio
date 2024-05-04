@@ -3,6 +3,7 @@ import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 import { motion } from "framer-motion";
 // import 'src/images/Snapchat-2051765064.jpgfrom "../images/Snapchat-2051765064.jpg"
+import Image from "../images/Snapchat-2051765064.jpg"
 const Home = () => {
     return (
         <div
@@ -88,7 +89,7 @@ const Home = () => {
                     className="md:pt-32 pt-16 "
                 >
                     <img
-                        src='src/images/Snapchat-2051765064.jpg'
+                        src={Image}
                         alt="My Pic"
                         className="rounded-2xl   md:mx-auto md:w-full "
                     />
