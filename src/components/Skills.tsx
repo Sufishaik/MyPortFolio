@@ -1,36 +1,43 @@
 import React from "react";
-
+import html from "../assets/html (1).png"
+import css from "../assets/css (1).png"
+import js from "../assets/js (1).png"
+import react from "../assets/react (1).png"
+import tc from "../assets/tc.png"
+import gh from "../assets/gh (1).png"
+import ts from "../assets/ts (1).png"
+import Framer from "../assets/Framer (1).png"
 
 import { motion } from "framer-motion";
 const Skills = () => {
     const techs = [
         {
             id: 1,
-            src: 'src/assets/html (1).png',
+            src: html,
             title: "HTML",
             style: "shadow-orange-500 ",
         },
         {
             id: 2,
-            src: 'src/assets/css (1).png',
+            src: css,
             title: "CSS",
             style: "shadow-blue-500 ",
         },
         {
             id: 3,
-            src: 'src/assets/js (1).png',
+            src: js,
             title: "JavaScript",
             style: "shadow-yellow-500 ",
         },
         {
             id: 4,
-            src: 'src/assets/react (1).png',
+            src: react,
             title: "React",
             style: "shadow-blue-600 ",
         },
         {
             id: 5,
-            src: 'src/assets/tc.png',
+            src: tc,
             title: "Tailwind",
             style: "shadow-sky-400  ",
         },
@@ -38,21 +45,21 @@ const Skills = () => {
 
         {
             id: 9,
-            src: 'src/assets/gh (1).png',
+            src: gh,
             title: "GitHub",
             style: "shadow-gray-400 ",
         },
 
         {
             id: 11,
-            src: 'src/assets/ts (1).png',
+            src: ts,
             title: "Type Script",
             style: "shadow-blue-600 ",
         },
 
         {
             id: 13,
-            src: 'src/assets/Framer (1).png',
+            src: Framer,
             title: "Framer Motion",
             style: "shadow-green-400 font-bold  text-black bg-slate-100 ",
         },
