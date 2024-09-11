@@ -24,7 +24,41 @@ export const Work = () => {
             Work Experience
           </motion.p>
         </div>
+
         <ul className="">
+          <motion.li
+            initial={{
+              opacity: 0,
+            }}
+            whileInView={{
+              opacity: 1,
+            }}
+            transition={{
+              delay: 0.3,
+              duration: 1,
+            }}
+            className="flex flex-col mb-5 tracking-widest  gap-2"
+          >
+            <span className="text-xl font-bold underline underline-offset-2">
+              Frontend Developer Full Time Position
+            </span>
+            <span className="font font-semibold">Hybrowlabs Technologies</span>
+            <span className="text-slate-400 text-md">
+              Octomber 2021 - August 2024
+            </span>
+            <span>
+              Debugged complex software issues, leading to a more stable product
+              release. Participated in regular code reviews, ensuring
+              high-quality standards were consistently met across all
+              development efforts. Adapted quickly to new technologies and
+              programming languages, enhancing overall team productivity. Worked
+              closely with clients to gather requirements and translate them
+              into technical specifications for implementation. Developed
+              responsive user interfaces for large-scale web applications using
+              React and Redux, enhancing user experience and achieving a 30%
+              increase in user engagement over a 12-month period.
+            </span>
+          </motion.li>
           <motion.li
             initial={{
               opacity: 0,
@@ -42,7 +76,20 @@ export const Work = () => {
               Frontend Developer Internship
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
-            <span className="text-slate-400 text-md">Dec 2023 - May 2024</span>
+            <span className="text-slate-400 text-md">
+              March 2021 - September 2021
+            </span>
+            <span>
+              Collaborated with a team of developers and designers to translate
+              project requirements into functional and visually appealing
+              interfaces. Actively participated in code reviews, providing
+              constructive feedback and implementing suggested improvements to
+              maintain code quality, consistency, and adherence to best
+              practices. Assisted in developing responsive web applications
+              using React.js, contributing to a 30% increase in user engagement
+              by enhancing the user interface and experience over a 6-month
+              period.
+            </span>
           </motion.li>
           <br />
           <motion.li
@@ -59,10 +106,25 @@ export const Work = () => {
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
-              Web Developer Internship
+              FrontEnd Developer Internship
             </span>
             <span className="font font-semibold">Atomic Loops</span>
-            <span className="text-slate-400 text-md">Apr 2023 - May 2023</span>
+            <span className="text-slate-400 text-md">Jan 2021 - Feb 2021</span>
+            <span>
+              Developed dynamic and user-friendly web applications as a Frontend
+              Intern, mainly using ReactJS. Collaborated with a team of
+              developers and designers to translate project requirements into
+              functional and visually appealing interfaces. Skilled in employing
+              the ReactJS framework and diverse bundles and repositories to
+              accomplish required functionalities. Actively participated in code
+              reviews, providing constructive feedback and implementing
+              suggested improvements to maintain code quality, consistency, and
+              adherence to best practices. Worked in Vande-Bharat Mission
+              helping small to medium scale businesses by empowering them
+              through eminent digital presence and technological assistance.
+              Engaged with clients to understand their needs and developed
+              webapps accordingly.
+            </span>
           </motion.li>
           <br />
         </ul>
