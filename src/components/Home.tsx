@@ -54,7 +54,7 @@ const Home = () => {
             }}
             className="text-gray-500 py-8 text-lg max-w-md "
           >
-            Junior FrontEnd Developer with 2 years of experience at Hybrowlabs
+            Junior FrontEnd Developer with 1 year of experience at Hybrowlabs
             Technologies, proficient in RTK Query, HTML, CSS, JavaScript, React,
             and TypeScript. Developed responsive user interfaces for large-scale
             web applications, resulting in a 30% increase in user engagement

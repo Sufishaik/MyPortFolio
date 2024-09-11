@@ -44,7 +44,7 @@ export const Work = () => {
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
             <span className="text-slate-400 text-md">
-              Octomber 2021 - August 2024
+              August 2023 - August 2024
             </span>
             <span>
               Debugged complex software issues, leading to a more stable product
@@ -77,7 +77,7 @@ export const Work = () => {
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
             <span className="text-slate-400 text-md">
-              March 2021 - September 2021
+              January 2023 - July 2023
             </span>
             <span>
               Collaborated with a team of developers and designers to translate
@@ -109,7 +109,9 @@ export const Work = () => {
               FrontEnd Developer Internship
             </span>
             <span className="font font-semibold">Atomic Loops</span>
-            <span className="text-slate-400 text-md">Jan 2021 - Feb 2021</span>
+            <span className="text-slate-400 text-md">
+              January 2021 - February 2021
+            </span>
             <span>
               Developed dynamic and user-friendly web applications as a Frontend
               Intern, mainly using ReactJS. Collaborated with a team of
