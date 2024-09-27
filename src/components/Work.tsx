@@ -37,39 +37,6 @@ export const Work = () => {
               delay: 0.3,
               duration: 1,
             }}
-            className="flex flex-col mb-5 tracking-widest  gap-2"
-          >
-            <span className="text-xl font-bold underline underline-offset-2">
-              Frontend Developer Full Time Position
-            </span>
-            <span className="font font-semibold">Hybrowlabs Technologies</span>
-            <span className="text-slate-400 text-md">
-              August 2023 - August 2024
-            </span>
-            <span>
-              Debugged complex software issues, leading to a more stable product
-              release. Participated in regular code reviews, ensuring
-              high-quality standards were consistently met across all
-              development efforts. Adapted quickly to new technologies and
-              programming languages, enhancing overall team productivity. Worked
-              closely with clients to gather requirements and translate them
-              into technical specifications for implementation. Developed
-              responsive user interfaces for large-scale web applications using
-              React and Redux, enhancing user experience and achieving a 30%
-              increase in user engagement over a 12-month period.
-            </span>
-          </motion.li>
-          <motion.li
-            initial={{
-              opacity: 0,
-            }}
-            whileInView={{
-              opacity: 1,
-            }}
-            transition={{
-              delay: 0.3,
-              duration: 1,
-            }}
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
@@ -77,7 +44,7 @@ export const Work = () => {
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
             <span className="text-slate-400 text-md">
-              January 2023 - July 2023
+              December 2023 - April 2024
             </span>
             <span>
               Collaborated with a team of developers and designers to translate
@@ -110,7 +77,7 @@ export const Work = () => {
             </span>
             <span className="font font-semibold">Atomic Loops</span>
             <span className="text-slate-400 text-md">
-              January 2021 - February 2021
+              April 2023 - May 2023
             </span>
             <span>
               Developed dynamic and user-friendly web applications as a Frontend
