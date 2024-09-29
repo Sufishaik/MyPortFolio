@@ -43,7 +43,7 @@ const SocialLinks = () => {
         </>
       ),
 
-      href: "https://drive.google.com/file/d/16AzfFJF67qen8HZSaZUWYZ61p0BzdI9X/view?usp=drive_link",
+      href: "https://app.rezi.ai/s/TtWrcxFYmsR14ggNCqLg",
       style: "rounded-br-md",
       download: true,
     },
