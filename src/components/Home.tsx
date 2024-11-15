@@ -39,7 +39,7 @@ const Home = () => {
             }}
             className="text-3xl font-jost sm:text-7xl text-white font-bold "
           >
-            I'm a Junior Frontend Developer
+            I'm a Frontend Developer
           </motion.h2>
           <motion.p
             initial={{
@@ -54,7 +54,7 @@ const Home = () => {
             }}
             className="text-gray-500 py-8 text-lg max-w-md "
           >
-            Junior FrontEnd Developer with 1 year of experience at Hybrowlabs
+            FrontEnd Developer with 1 year of experience at Hybrowlabs
             Technologies, proficient in RTK Query, HTML, CSS, JavaScript, React,
             and TypeScript. Developed responsive user interfaces for large-scale
             web applications, resulting in a 30% increase in user engagement

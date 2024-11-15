@@ -44,7 +44,7 @@ export const Work = () => {
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
             <span className="text-slate-400 text-md">
-              December 2023 - April 2024
+              December 2023 - July 2024
             </span>
             <span>
               Collaborated with a team of developers and designers to translate
