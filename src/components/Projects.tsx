@@ -7,7 +7,7 @@ export default function Projects() {
     {
       id: 1,
       img: Img1,
-      lnk: "https://e-site-demo.netlify.app/",
+      lnk: "https://aesthetic-starship-2ad793.netlify.app/",
       title: "My E-commerce Site",
       desc: "Html, Css, Javascript, react, Type script, Tailwind css, Framer Motion etc, Daisy UI",
     },
