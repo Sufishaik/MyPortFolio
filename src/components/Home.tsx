@@ -2,8 +2,8 @@ import React from "react";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 import { motion } from "framer-motion";
-// import 'src/images/Snapchat-2051765064.jpgfrom "../images/Snapchat-2051765064.jpg"
-import Image from "../images/Snapchat-2051765064.jpg";
+
+import Image from "../assets/Snapchat-2051765064.jpg";
 const Home = () => {
   return (
     <div

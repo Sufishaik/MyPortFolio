@@ -1,7 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Img1 from "../images/pro1.png";
-import Img2 from "../images/note.png";
+import Img1 from "../assets/pro1.png";
+import Img2 from "../assets/note.png";
+
 export default function Projects() {
   const project = [
     {
