@@ -40,7 +40,7 @@ export const Work = () => {
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
-              Frontend Developer
+              Frontend Developer Freelance
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
             <span className="text-slate-400 text-md">
@@ -55,6 +55,7 @@ export const Work = () => {
               across devices.
             </span>
           </motion.li>
+          <br />
           <motion.li
             initial={{
               opacity: 0,
@@ -102,7 +103,7 @@ export const Work = () => {
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
-              FrontEnd Developer
+              FrontEnd Developer Internship
             </span>
             <span className="font font-semibold">Atomic Loops</span>
             <span className="text-slate-400 text-md">
