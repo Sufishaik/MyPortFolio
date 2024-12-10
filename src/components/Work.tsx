@@ -40,11 +40,11 @@ export const Work = () => {
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
-              Frontend Developer Freelance
+              Frontend Developer
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
             <span className="text-slate-400 text-md">
-              August 2024 - Present
+              January 2024 - Present
             </span>
             <span>
               Working closely with clients to understand project requirements
@@ -74,7 +74,7 @@ export const Work = () => {
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
             <span className="text-slate-400 text-md">
-              December 2023 - July 2024
+              May 2023 - December 2024
             </span>
             <span>
               Collaborated with a team of developers and designers to translate
