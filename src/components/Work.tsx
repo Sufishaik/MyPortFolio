@@ -43,9 +43,7 @@ export const Work = () => {
               Frontend Developer
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
-            <span className="text-slate-400 text-md">
-              January 2024 - Present
-            </span>
+            <span className="text-slate-400 text-md">Aug 2024 - Present</span>
             <span>
               Working closely with clients to understand project requirements
               and deliver scalable and efficient frontend solutions. Enhancing
@@ -73,9 +71,7 @@ export const Work = () => {
               Frontend Developer Internship
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
-            <span className="text-slate-400 text-md">
-              May 2023 - December 2024
-            </span>
+            <span className="text-slate-400 text-md">Dec 2023 - Jul 2024</span>
             <span>
               Collaborated with a team of developers and designers to translate
               project requirements into functional and visually appealing
