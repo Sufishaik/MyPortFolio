@@ -40,38 +40,12 @@ export const Work = () => {
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
-              Frontend Developer
-            </span>
-            <span className="font font-semibold">Hybrowlabs Technologies</span>
-            <span className="text-slate-400 text-md">Dec 2023 - Present</span>
-            <span>
-              Working closely with clients to understand project requirements
-              and deliver scalable and efficient frontend solutions. Enhancing
-              existing codebases and implementing new features to improve user
-              experience. Leveraging modern frameworks like React.js and
-              Tailwind CSS to ensure seamless responsiveness and accessibility
-              across devices.
-            </span>
-          </motion.li>
-          <br />
-          <motion.li
-            initial={{
-              opacity: 0,
-            }}
-            whileInView={{
-              opacity: 1,
-            }}
-            transition={{
-              delay: 0.3,
-              duration: 1,
-            }}
-            className="flex flex-col tracking-widest  gap-2"
-          >
-            <span className="text-xl font-bold underline underline-offset-2">
               Frontend Developer Internship
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
-            <span className="text-slate-400 text-md">Dec 2022 - Jul 2023</span>
+            <span className="text-slate-400 text-md">
+              July 2024 - March 2025
+            </span>
             <span>
               Collaborated with a team of developers and designers to translate
               project requirements into functional and visually appealing
@@ -103,7 +77,7 @@ export const Work = () => {
             </span>
             <span className="font font-semibold">Atomic Loops</span>
             <span className="text-slate-400 text-md">
-              April 2022 - May 2022
+              April 2023 - May 2023
             </span>
             <span>
               Developed dynamic and user-friendly web applications as a Frontend
