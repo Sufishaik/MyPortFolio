@@ -40,12 +40,39 @@ export const Work = () => {
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
-              Frontend Developer Internship
+              Frontend Developer
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
             <span className="text-slate-400 text-md">
-              July 2024 - March 2025
+              Jan 2024 - April 2025
             </span>
+            <span>
+              Developed and deployed highly interactive and scalable user
+              interfaces using React.js, ensuring seamless performance across
+              devices and platforms. Spearheaded the optimization of UI/UX
+              designs, resulting in a 40% increase in user satisfaction and a
+              35% improvement in workflow efficiency
+            </span>
+          </motion.li>
+          <br />
+          <motion.li
+            initial={{
+              opacity: 0,
+            }}
+            whileInView={{
+              opacity: 1,
+            }}
+            transition={{
+              delay: 0.3,
+              duration: 1,
+            }}
+            className="flex flex-col tracking-widest  gap-2"
+          >
+            <span className="text-xl font-bold underline underline-offset-2">
+              Frontend Developer Internship
+            </span>
+            <span className="font font-semibold">Hybrowlabs Technologies</span>
+            <span className="text-slate-400 text-md">June 2023 - Dec 2023</span>
             <span>
               Collaborated with a team of developers and designers to translate
               project requirements into functional and visually appealing
