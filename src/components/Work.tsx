@@ -40,12 +40,68 @@ export const Work = () => {
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
+              Frontend Developer Freelance
+            </span>
+            <span className="font font-semibold">Outlier</span>
+            <span className="text-slate-400 text-md">May 2025 - Present</span>
+            <span>
+              Developed and deployed highly interactive and scalable user
+              interfaces using React.js, ensuring seamless performance across
+              devices and platforms. Spearheaded the optimization of UI/UX
+              designs, resulting in a 40% increase in user satisfaction and a
+              35% improvement in workflow efficiency. Continuously monitored and
+              fine-tuned front-end performance, contributing to the delivery of
+              high-quality software aligned with business objectives.
+            </span>
+          </motion.li>
+          <br />
+          <motion.li
+            initial={{
+              opacity: 0,
+            }}
+            whileInView={{
+              opacity: 1,
+            }}
+            transition={{
+              delay: 0.3,
+              duration: 1,
+            }}
+            className="flex flex-col tracking-widest  gap-2"
+          >
+            <span className="text-xl font-bold underline underline-offset-2">
+              Frontend Developer Full Time
+            </span>
+            <span className="font font-semibold">Hybrowlabs Technologies</span>
+            <span className="text-slate-400 text-md">Dec 2023 - Jan 2025</span>
+            <span>
+              Developed and deployed highly interactive and scalable user
+              interfaces using React.js, ensuring seamless performance across
+              devices and platforms. Spearheaded the optimization of UI/UX
+              designs, resulting in a 40% increase in user satisfaction and a
+              35% improvement in workflow efficiency. Continuously monitored and
+              fine-tuned front-end performance, contributing to the delivery of
+              high-quality software aligned with business objectives.
+            </span>
+          </motion.li>
+          <br />
+          <motion.li
+            initial={{
+              opacity: 0,
+            }}
+            whileInView={{
+              opacity: 1,
+            }}
+            transition={{
+              delay: 0.3,
+              duration: 1,
+            }}
+            className="flex flex-col tracking-widest  gap-2"
+          >
+            <span className="text-xl font-bold underline underline-offset-2">
               Frontend Developer Internship
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
-            <span className="text-slate-400 text-md">
-              August 2024 - April 2025
-            </span>
+            <span className="text-slate-400 text-md">Dec 2022 - Jul 2023</span>
             <span>
               Collaborated with a team of developers and designers to translate
               project requirements into functional and visually appealing
@@ -77,7 +133,7 @@ export const Work = () => {
             </span>
             <span className="font font-semibold">Atomic Loops</span>
             <span className="text-slate-400 text-md">
-              April 2023 - July 2023
+              April 2022 - July 2022
             </span>
             <span>
               Developed dynamic and user-friendly web applications as a Frontend
