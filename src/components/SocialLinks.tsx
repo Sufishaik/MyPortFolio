@@ -44,7 +44,7 @@ const SocialLinks = () => {
       ),
 
       // href: "https://docs.google.com/document/d/1FhqPV68ji1GuFirFLy4PQWntIjTSt9WKIwBUmgLgoNs/edit?usp=sharing",
-      href: "https://app.rezi.ai/s/vc4zQcYUkriJPJlvcU18",
+      href: "https://app.enhancv.com/share/bd761653/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic",
       style: "rounded-br-md",
       download: true,
     },
