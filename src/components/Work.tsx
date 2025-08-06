@@ -70,10 +70,10 @@ export const Work = () => {
             className="flex flex-col tracking-widest  gap-2"
           >
             <span className="text-xl font-bold underline underline-offset-2">
-              Frontend Developer Internship
+              Frontend Developer
             </span>
             <span className="font font-semibold">Hybrowlabs Technologies</span>
-            <span className="text-slate-400 text-md">Aug 2024 - Apr 2025</span>
+            <span className="text-slate-400 text-md">Jan 2024 - Apr 2025</span>
             <span>
               Collaborated with a team of developers and designers to translate
               project requirements into functional and visually appealing
@@ -103,10 +103,8 @@ export const Work = () => {
             <span className="text-xl font-bold underline underline-offset-2">
               FrontEnd Developer Internship
             </span>
-            <span className="font font-semibold">Atomic Loops</span>
-            <span className="text-slate-400 text-md">
-              April 2023 - July 2023
-            </span>
+            <span className="font font-semibold">Hybrowlabs Technologies</span>
+            <span className="text-slate-400 text-md">Dec 2021 - July 2023</span>
             <span>
               Developed dynamic and user-friendly web applications as a Frontend
               Intern, mainly using ReactJS. Collaborated with a team of
